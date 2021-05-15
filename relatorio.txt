@@ -1,0 +1,31 @@
+Integrante: Pedro Veloso Soares
+Numero de chamada: 43
+Matricula: 11901063 
+
+index.html:
+O que foi feito:
+	linha 8: <!-- TODO: Remove static import from css *****feito***** --> 
+	linhas 12-32, 41-42: <!-- TODO: validate form before submit(******feito*****) (use one attribuite)--------->
+	linha 58: <!-- TODO: implement previous page action -->
+	linha 61: <!-- TODO: implement next page action -->
+
+main.css:
+O que foi feito:
+	linha 11: /* TODO: Remove imports to HTML ******feito*******/
+	linhas 110-115: /* TODO: create a class to valid and invalid form input */
+	linha 166: /* TODO: change logo color to white */
+
+
+Como foi fazer: Foi complicado entender o obijetivo do codico, por ser muito grande e cheio de buracos, dificultando para conectar o seu funcionamento.   
+             
+                          
+	   
+
+    
+
+
+
+     
+
+
+               
